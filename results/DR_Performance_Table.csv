@@ -1,0 +1,6 @@
+Class,Precision,Sensitivity,Specificity,F1Score,TP,TN,FP,FN
+No DR,0.543715846994536,1,0,0.704424778761062,199,0,167,0
+Mild DR,0,0,1,0,0,336,0,30
+Moderate DR,0,0,1,0,0,279,0,87
+Severe DR,0,0,1,0,0,349,0,17
+Proliferative DR,0,0,1,0,0,333,0,33

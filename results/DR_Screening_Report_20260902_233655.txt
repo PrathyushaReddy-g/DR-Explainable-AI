@@ -1,0 +1,55 @@
+====================================================
+EXPLAINABLE AI - DIABETIC RETINOPATHY SCREENING
+====================================================
+
+Image: 1b495ac025b7.png
+Date : 02-Sep-2026 23:36:55
+
+IMAGE QUALITY
+-------------
+Overall     : 55.3 / 100
+Status      : BORDERLINE
+Focus       : 36.1 / 100
+Illumination: 69.5 / 100
+FOV         : 100.0 / 100
+Contrast    : 10.7 / 100
+
+RETINAL STRUCTURES
+------------------
+Vessel Density : 42.44 %
+Optic Disc     : No
+Retinal FOV    : Yes
+
+CLINICAL CANDIDATE EVIDENCE
+----------------------------
+Bright Candidates: 973
+Dark Candidates  : 12455
+Red Candidates   : 2875
+Total Candidates : 16303
+
+AI CLASSIFICATION
+-----------------
+Grade      : No DR
+Confidence : 89.30 %
+Referable  : No
+
+CLASS PROBABILITIES
+-------------------
+No DR : 89.30 %
+Mild DR : 0.85 %
+Moderate DR : 8.56 %
+Severe DR : 0.26 %
+Proliferative DR : 1.02 %
+
+SCREENING RECOMMENDATION
+-------------------------
+No DR suspected by the AI model. Routine screening follow-up is recommended.
+
+EXPLAINABILITY
+--------------
+Grad-CAM generated: Yes
+
+IMPORTANT
+This system is a research prototype.
+Candidate regions are algorithmic evidence only.
+AI output does not replace ophthalmologist examination.

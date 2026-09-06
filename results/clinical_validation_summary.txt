@@ -1,0 +1,16 @@
+DIABETIC RETINOPATHY CLINICAL VALIDATION
+========================================
+
+Model: ResNet-18
+Test images: 366
+
+Overall Accuracy: 78.96%
+Grade Agreement: 78.96%
+Referral Agreement: 89.89%
+
+REFERABLE DR (GRADE 2+)
+Sensitivity: 80.29%
+Specificity: 95.63%
+PPV: 91.67%
+NPV: 89.02%
+F1: 85.60%

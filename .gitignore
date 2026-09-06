@@ -1,0 +1,48 @@
+# ============================================================
+# MATLAB temporary / generated files
+# ============================================================
+
+*.asv
+*.autosave
+*.m~
+*.mlx~
+slprj/
+codegen/
+*.slxc
+
+# MATLAB cache / temporary folders
+*.bak
+
+# ============================================================
+# Dataset - retinal images are NOT uploaded to GitHub
+# ============================================================
+
+data/train_images/
+data/val_images/
+data/test_images/
+
+# ============================================================
+# Python / Web deployment temporary files
+# ============================================================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ============================================================
+# OS / editor files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# MATLAB generated project backup
+# ============================================================
+
+*.prj.baktrain_DR_Model.m
+trainDRModel.asv
+/train_DR_Model.m

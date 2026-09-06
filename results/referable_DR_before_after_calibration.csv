@@ -1,0 +1,3 @@
+Method,Sensitivity_Percent,Specificity_Percent,PPV_Percent,NPV_Percent,F1_Percent
+Original Test Threshold,80.29,95.63,91.67,89.02,85.6
+Calibrated Test Threshold,95.6204379562044,92.1397379912664,87.9194630872483,97.2350230414747,91.6083916083916
